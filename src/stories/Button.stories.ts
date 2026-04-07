@@ -35,7 +35,7 @@ export const Primary: Story = {
 
 export const Secondary: Story = {
   args: {
-    label: 'Some label',
+    label: 'This is a test',
   },
 };
 
