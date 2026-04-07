@@ -32,6 +32,7 @@ export const Button = ({
       <style jsx>{`
         button {
           background-color: ${backgroundColor};
+          border: yellow solid 3px;
         }
       `}</style>
     </button>
