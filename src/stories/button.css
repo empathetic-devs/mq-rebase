@@ -13,7 +13,7 @@
 }
 .storybook-button--secondary {
   background-color: transparent;
-  color: transparent;
+  color: black;
 }
 .storybook-button--small {
   padding: 10px 16px;
